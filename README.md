@@ -174,8 +174,7 @@ Open your browser:
 ```
 http://<your-ec2-public-ip>:8000/docs
 ```
-✅ Your Dockerized FastAPI app is now live on AWS EC2!
----
+
 
 ✅ Your Dockerized FastAPI app is now live on AWS EC2!
 
